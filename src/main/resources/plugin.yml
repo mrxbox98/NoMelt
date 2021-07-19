@@ -1,0 +1,6 @@
+name: NoMelt
+version: ${project.version}
+main: me.mrxbox98.nomelt.nomelt.NoMelt
+api-version: 1.17
+authors: [ Mrxbox98 ]
+description: Prevents any blocks from melting.
