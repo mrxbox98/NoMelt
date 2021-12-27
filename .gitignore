@@ -8,3 +8,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+.idea/artifacts/NoMelt.xml
+.idea/libraries/Maven__org_spigotmc_spigot_api_1_17_1_R0_1_SNAPSHOT.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+out/artifacts/NoMelt/NoMelt.jar
